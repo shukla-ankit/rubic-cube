@@ -128,7 +128,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Cube.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\RubicCube.cpp" />
     <ClCompile Include="src\RubicCubeFace.cpp" />
